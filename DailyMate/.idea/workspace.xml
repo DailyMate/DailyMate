@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0bfc8877-53ba-4385-b740-b97283e9fa69" name="Changes" comment="update: update addTodo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../daily-mate/src/apis/todoApi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../daily-mate/src/apis/todoApi.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../daily-mate/src/components/calendar/cell/TodoCell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../daily-mate/src/components/calendar/cell/TodoCell.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../daily-mate/src/components/todo/TodoPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../daily-mate/src/components/todo/TodoPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +125,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/User/Desktop/Test/DailyMate",
+    "last_opened_file_path": "D:/User/Desktop/DailyMate/DailyMate",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -204,6 +201,7 @@
       <workItem from="1710415448355" duration="1197000" />
       <workItem from="1710419869546" duration="2167000" />
       <workItem from="1710424387121" duration="59000" />
+      <workItem from="1710425703938" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="feat todo - 할일 추가/수정/삭제 메서드 추가(미완성)">
       <created>1706523322132</created>
